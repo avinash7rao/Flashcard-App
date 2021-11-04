@@ -1,4 +1,4 @@
-[Click here for the app.](https://flashcard-app-tawny.vercel.app/decks/new){target="_blank"}
+## [Click here for the app.](https://flashcard-app-tawny.vercel.app/decks/new)
 
 ## Synopsis
 
